@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/as5lasttest/static/css/main.3bd0773f.css",
+    "main.js": "/as5lasttest/static/js/main.42a85110.js",
+    "static/js/453.92164278.chunk.js": "/as5lasttest/static/js/453.92164278.chunk.js",
+    "static/media/apple.jpg": "/as5lasttest/static/media/apple.10c1d91069db12bee5ee.jpg",
+    "index.html": "/as5lasttest/index.html",
+    "main.3bd0773f.css.map": "/as5lasttest/static/css/main.3bd0773f.css.map",
+    "main.42a85110.js.map": "/as5lasttest/static/js/main.42a85110.js.map",
+    "453.92164278.chunk.js.map": "/as5lasttest/static/js/453.92164278.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3bd0773f.css",
+    "static/js/main.42a85110.js"
+  ]
+}
